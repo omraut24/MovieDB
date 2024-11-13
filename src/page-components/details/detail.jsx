@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/swiper-bundle.min.css";
+// import "swiper/swiper-bundle.min.css";
 import "./detail.css"; // Assuming you create a separate CSS file for styling
 
 const Details = () => {
